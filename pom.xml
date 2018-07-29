@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.sviani.mavenizer</groupId>
     <artifactId>garmin-fit</artifactId>
-    <version>20.33.01</version>
+    <version>20.67.00</version>
     <packaging>pom</packaging>
     <build>
         <plugins>
